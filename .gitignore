@@ -1,0 +1,5 @@
+audit.jsonl
+scopebridge
+coverage.out
+*.key
+.env
